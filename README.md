@@ -1,4 +1,4 @@
-## Nasdaq Forecasting
+## CBOE Forecasting
 
 Optimizing for Jupyter notebook.
 
